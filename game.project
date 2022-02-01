@@ -12,5 +12,5 @@ height = 640
 title = extension-libdq
 
 [library]
-include_dirs = myextension
+include_dirs = libdq
 
